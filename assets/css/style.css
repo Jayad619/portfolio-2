@@ -169,6 +169,19 @@ main section h2 {
     grid-gap: 3rem
 }
 
+.social {
+    display: flex;
+    justify-content: center;
+}
+
+i {
+    padding: 10px;
+}
+
+iv {
+    padding: 10px;
+    padding-right: 40px;
+}
 
 /* Everything at the bottom of the page */
 
