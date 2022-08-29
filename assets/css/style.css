@@ -145,8 +145,8 @@ p {
 /* The boxes for the text centre page*/
 
 main section{
-    margin-bottom: 20px;
-    padding: 50px;
+    margin-bottom: 10px;
+    padding: 30px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: rgb(47, 66, 151);
@@ -158,7 +158,7 @@ main section img {
 }
 
 main section h2 {
-    margin-bottom: 20px;
+    margin-bottom: 2px;
     font-size: 36px;
 }
 
