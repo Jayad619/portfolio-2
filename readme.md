@@ -1,5 +1,4 @@
-
-#Professional-portfolio
+# Professional Portfolio
 
 Portfolio
 For this weeks homework, I have recreated my portfolio to ensure it looks professional, and has a polished, mobile-responsive user inerface. I have also included links to my social media including, LinkedIn, GitHub and a downloadable version of my up to date CV.
@@ -16,4 +15,4 @@ Github Repository Link:
 https://github.com/Jayad619/portfolio-2
 
 Application Screenshots
-assets/images/Screenshot 2022-08-29 at 17.27.39.png
+![Alt text](/../<main>/assets/images/Screenshot 2022-08-29 at 17.27.39.png?raw=true "Optional Title")
