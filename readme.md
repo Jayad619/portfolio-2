@@ -10,10 +10,11 @@ HTML
 CSS
 FontAwesome
 
-Deployed Link
+Deployed Link:
+https://jayad619.github.io/portfolio-2/
 
-
-Github Repository Link
-
+Github Repository Link:
+https://github.com/Jayad619/portfolio-2
 
 Application Screenshots
+assets/images/Screenshot 2022-08-29 at 17.27.39.png
